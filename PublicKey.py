@@ -8,7 +8,7 @@ from googleapiclient.errors import HttpError
 
 SCOPES=["https://www.googleapis.com/auth/spreadsheets"]
 
-Spreadsheet_id="1uI8lRO2jZ-nx3wXKjRthRcSGLO9NWnOkoJlYVlAUIWE"
+Spreadsheet_id="ur_spreadsheet_id"
 
 def GetPublicKeys():
     """Shows basic usage of the Sheets API.
